@@ -18,3 +18,16 @@
 - **What I learned:** Full-stack web development, database integration, Django, and application design.
 - **Future improvement:** Add service reminders, customer notifications, and service history reports.
 
+## Project 4: AI Resume Parser and Resume Analyzer
+
+**Problem:** Manually reviewing resumes takes time and makes it difficult to identify relevant skills efficiently.
+
+**Solution:** Developed an AI-based application that analyses resume text and classifies resumes using machine learning techniques.
+
+**Technologies Used:** Python, NLP, Pandas, Scikit-learn, TF-IDF, Multinomial Naive Bayes, Streamlit.
+
+**My Contribution:** Prepared and processed resume data, implemented text vectorisation, trained the classification model, evaluated model performance, and developed the Streamlit interface.
+
+**What I Learned:** Text preprocessing, feature extraction using TF-IDF, machine learning classification, model evaluation, and application development.
+
+**Future Improvement:** Improve classification accuracy, extract skills automatically, and provide personalised resume improvement suggestions.
