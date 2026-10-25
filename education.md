@@ -5,6 +5,7 @@
 - **Institution:** Aditya University
 - **Study period:** 2024–2028
 - **CGPA / Percentage:** 8.56
+- **Current Status**: 3rd year
 
 ## Relevant Coursework
 - Programming Fundamentals
