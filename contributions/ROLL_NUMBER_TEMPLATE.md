@@ -1,7 +1,7 @@
 # Git and GitHub Learning Notes
 
-- **Name:** Your Name
-- **Roll Number:** YOUR_ROLL_NUMBER
+- **Name:** Karri Himabindu
+- **Roll Number:** 24B11CS195
 
 ## Three Git Commands I Learned
 1. `git status` — shows the state of the working directory and staging area.
@@ -14,4 +14,3 @@ GitHub hosts Git repositories online and supports collaboration, code review, an
 ## One Benefit of Branches
 Branches let developers work on changes separately without immediately changing the main branch.
 
-**Assessment note:** Copy this template into a new file named `YOUR_ROLL_NUMBER.md` and replace the placeholders. Do not submit using the template filename.

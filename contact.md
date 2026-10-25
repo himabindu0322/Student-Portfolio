@@ -2,10 +2,9 @@
 
 Use only professional contact information you are comfortable making public.
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
+- **Name:** Karri Himabindu
+- **Email:** karrihimabindu22@gmail.com
+- **GitHub:** https://github.com/himabindu0322
+- **LinkedIn:** https://www.linkedin.com/in/karri-himabindu-152590348/
+- **Location:** Kakinada
 
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.

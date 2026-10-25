@@ -1,26 +1,20 @@
 # Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: SMS Spam Message Detection System
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- **Problem:** Spam and scam messages may contain suspicious links, phone numbers, financial terms, and misleading offers that are difficult to identify manually.
+- **Solution:** Developed a hybrid NLP-based system that classifies SMS messages as spam or ham using text features and additional risk indicators.
+- **Technologies:** Python, NLP, Pandas, NumPy, Scikit-learn, TF-IDF, Streamlit.
+- **My contribution:** Worked on text preprocessing, risk feature extraction, model training, evaluation, and the Streamlit application.
+- **What I learned:** Text preprocessing, feature engineering, classification, model evaluation, and application development.
+- **Future improvement:** Extend the system to detect more scam patterns and provide explanations for suspicious predictions.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+## Project 3: Vehicle Service Management System
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+- **Problem:** Managing vehicle service records manually can make it difficult to organise customer and service information.
+- **Solution:** Developed a web application to organise and manage vehicle service-related information.
+- **Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap.
+- **My contribution:** Worked on developing the web application, handling service-related records, and designing the user interface.
+- **What I learned:** Full-stack web development, database integration, Django, and application design.
+- **Future improvement:** Add service reminders, customer notifications, and service history reports.
+
