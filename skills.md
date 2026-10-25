@@ -17,6 +17,9 @@ Replace these examples with skills you can confidently discuss in an interview.
 - GitHub
 - Visual Studio Code
 
+## ML Tech
+- AI/ML: Machine Learning, Natural Language Processing (NLP), Scikit-learn, TensorFlow
+
 ## Skills to Improve
 - Data Structures and Algorithms
 - SQL and database fundamentals
