@@ -31,4 +31,4 @@ Your file should include:
 - The purpose of GitHub
 - One benefit of using branches
 
-**Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.
+
